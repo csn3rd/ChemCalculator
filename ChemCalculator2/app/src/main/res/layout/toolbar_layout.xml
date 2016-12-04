@@ -8,6 +8,6 @@
     android:id="@+id/toolBar"
     app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
 
-    android:background="@android:color/holo_blue_bright">
+    android:background="@android:color/holo_blue_dark">
 
 </android.support.v7.widget.Toolbar>

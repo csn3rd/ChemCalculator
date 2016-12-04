@@ -23,6 +23,8 @@
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:ems="10"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:textCursorDrawable="@drawable/color_cursor"
         android:id="@+id/editText"
         android:layout_marginBottom="30dp"
         android:layout_above="@+id/button"
