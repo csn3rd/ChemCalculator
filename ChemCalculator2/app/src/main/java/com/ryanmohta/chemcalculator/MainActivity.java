@@ -61,8 +61,8 @@ public class MainActivity extends AppCompatActivity {
         tabLayout = (TabLayout) findViewById(R.id.tabLayout);
         viewPager = (ViewPager) findViewById(R.id.viewPager);
         viewPagerAdapter = new ViewPagerAdapter(getSupportFragmentManager());
-        viewPagerAdapter.addFragments(new SigFigCalculator(), "Sig Fig Calculator");
-        viewPagerAdapter.addFragments(new MolarMassCalculator(), "Molar Mass Calculator");
+        viewPagerAdapter.addFragments(new SigFigCalculator(), "Sig Figs");
+        viewPagerAdapter.addFragments(new MolarMassCalculator(), "Molar Mass");
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
         viewPager.setAdapter(viewPagerAdapter);
