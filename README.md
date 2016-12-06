@@ -13,7 +13,7 @@ This app, designed by Ryan Mohta and Jonathan Ho from Cupertino High School, wor
   -Allow users to calculate molar mass of more complex chemicals with parenthesis and coefficients <br>
 	-Allow users to calculate molar mass of multiple chemicals or an entire equation (this may not happen soon, give us some time!) <br>
 	-Becoming a unicorn
-<p>
+<hr>
 We designed this app at MLH Local Hack Day on December 3, 2016, a worldwide hackathon celebrating the hacker community. Our current version is 1.0 <br>
 *As of our initial release this app can only calculate molar mass of simple chemicals not including parenthesis or coefficients. We hope to add these capibilities in the future though! ;)
 <p>
